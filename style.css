@@ -30,12 +30,13 @@ footer {
 }
 
 .profile-pic {
-  width: 30px;
-  height: 30px;
+  width: 70px;
+  height: 70px;
   border-radius: 50%;
   object-fit: cover;
   border: 2px solid white;
 }
+
 
 
 
